@@ -1,2 +1,4 @@
-# Group_31_IRDM-2017
-This is the repository for Group 31's IRDM assignment submission for UCL 2017.
+# Group_31_IRDM-2017-Farhans-Work
+
+Please find contained the work I carried out for this project the folder names are self-explanatory
+
