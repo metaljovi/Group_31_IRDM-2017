@@ -1,0 +1,5 @@
+,rank,rmse,fit_intercept,normalize
+0,1.0,0.4882808192798861,True,False
+1,2.0,0.48828081927988615,True,True
+2,3.0,0.5184385513400711,False,True
+3,3.0,0.5184385513400711,False,False
